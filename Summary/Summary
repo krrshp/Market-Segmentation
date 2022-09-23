@@ -1,0 +1,31 @@
+One descriptor variable available
+in the fast food data set is the extent to which consumers love or hate McDonald’s.
+Using a simple mosaic plot, we can visualise the association between segment
+membership and loving or hating McDonald’
+we first extract the segment membership for each consumer for the
+four-segment solution. Next we cross-tabulate segment membership and the love hate variable. 
+Finally, we generate the mosaic plot with cells colours indicating the
+deviation of the observed frequencies in each cell from the expected frequency.
+
+The Mosaic plot reveals a strong
+and significant association between those two variables. Members of segment 1
+(depicted in the first column) rarely express love for McDonald’s, as indicated by
+the top left boxes being coloured in red.
+members of segment 4 are. At the same time, these consumers are less likely
+to hate McDonald’s. Members of segment 2 appear to have the strongest negative feelings
+towards McDonald’s; their likelihood of hating McDonald’s is extremely high.
+
+
+
+The fast food data contains a few other basic descriptor variables, such as gender
+and age.
+The mosaic plot offers the following additional insights
+about our market segments: segment 1 and segment 3 have a similar gender
+distribution as the overall sample. Segment 2 contains significantly more men (as
+depicted by the larger blue box for the category male, and the smaller red box for
+the category female in the second column of the plot). Members of segment 4 are
+significantly less likely to be men (smaller red box at the top of the fourth column)
+
+
+Because age is metric – rather than categorical – we use a parallel box-and whisker plot to assess the association of age with segment membership.
+
